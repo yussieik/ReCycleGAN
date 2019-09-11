@@ -2,6 +2,10 @@
 
 This repository provides the code for our work on [unsupervised video retargeting](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/). 
 
+## Prerequistes
+pytorch = 1.1.0, python = 3.7.3
+
+
 ```make
 @inproceedings{Recycle-GAN,
   author    = {Aayush Bansal and
@@ -86,5 +90,4 @@ Please use following links to download Face, Flowers, and Viper data:
 Please contact [Aayush Bansal](http://cs.cmu.edu/~aayushb) for any specific data or trained models, or for any other information. 
 
 
-## Prerequistes
-pytorch = 1.1.0, python = 3.7.3
+
